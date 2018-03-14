@@ -1,6 +1,6 @@
 # Food-App
 
-##Responsive Web Design:
+## Responsive Web Design:
 
     - Fluid grid: all layout elements are sized in relative unites, such as percentages, instead of absolute units like pixels
 
