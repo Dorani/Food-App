@@ -48,6 +48,8 @@ h1 {
   padding: 10px 30px;
   font-weight: 300;
   text-decoration: none;
+  border-radius: 200px;
+  color: #fff;
 }
 
 .btn-full {
