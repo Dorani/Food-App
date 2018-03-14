@@ -50,6 +50,7 @@ h1 {
   font-weight: 300;
   text-decoration: none;
   border-radius: 200px;
+  transition: background-color 0.2s;
 }
 
 .btn-full:link,
