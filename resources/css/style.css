@@ -49,3 +49,7 @@ h1 {
   font-weight: 300;
   text-decoration: none;
 }
+
+.btn-full {
+  background-color: #e67e22;
+}
