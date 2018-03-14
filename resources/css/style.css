@@ -43,7 +43,8 @@ h1 {
   word-spacing: 4px;
 }
 
-.btn {
+.btn:link
+.btn:visited {
   display: inline-block;
   padding: 10px 30px;
   font-weight: 300;
@@ -52,6 +53,13 @@ h1 {
   color: #fff;
 }
 
-.btn-full {
+.btn-full:link
+.btn-full:visited {
   background-color: #e67e22;
+}
+
+.btn-ghost:link
+.btn-ghost:visited {
+  border: 1px solid #e67e22'
+  color: #e67e22;
 }
