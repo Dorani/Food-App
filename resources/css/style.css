@@ -43,7 +43,7 @@ h1 {
   word-spacing: 4px;
 }
 
-.btn:link
+.btn:link,
 .btn:visited {
   display: inline-block;
   padding: 10px 30px;
@@ -52,20 +52,20 @@ h1 {
   border-radius: 200px;
 }
 
-.btn-full:link
+.btn-full:link,
 .btn-full:visited {
   background-color: #e67e22;
   border: 1px solid #e67e22;
   color: #fff;
 }
 
-.btn-ghost:link
+.btn-ghost:link,
 .btn-ghost:visited {
   border: 1px solid #e67e22'
   color: #e67e22;
 }
 
-.btn:hover
+.btn:hover,
 .btn:active {
   background-color: #cf6d17;
 }
