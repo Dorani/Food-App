@@ -27,4 +27,10 @@
 
   - how to create a simple navigation
 
-  
+## Step 2 lessons:
+
+  - How to put content on a website directly from css with the :after pseudo-class
+
+  - Using fluid gruid
+
+  - Using icons
