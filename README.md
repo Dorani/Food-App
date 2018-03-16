@@ -34,3 +34,11 @@
   - Using fluid gruid
 
   - Using icons
+
+## Step 3 lessons:
+
+  - How to make a grid of beautiful images
+
+  - How to make a nice "zoom-in" transition, only using css3
+
+  - A way to make img docs darker
