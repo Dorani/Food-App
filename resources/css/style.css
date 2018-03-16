@@ -109,10 +109,29 @@ h2:after {
   text-align: center;
   color: #e67e22;
   font-size: 120%;
+  margin-right: 10px;
   /* secrets to align text and icons*/
   line-height: 120%;
   vertical-align: middle;
-  margin-top: -4px;
+  margin-top: -5px;
+}
+
+/*---- Generic Links ---- */
+
+
+a:link,
+a:visited {
+  color: #e67e22;
+  text-decoration: none;
+  padding-bottom: 1px;
+  border-bottom: 1px solid #e67e22;
+  transition: border-bottom 0.2s, color 0.2s;
+}
+
+a:hover,
+a:active {
+  color: #555;
+  border-bottom: 1px solid transparent;
 }
 
 /*---- Buttons ---- */
@@ -304,6 +323,11 @@ header {
   float: left;
   font-size: 150%;
   margin-right: 25px;
+}
+
+.btn-app:link,
+.btn-app:visited {
+  border: 0;
 }
 
 .btn-app img {
