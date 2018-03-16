@@ -50,3 +50,11 @@
   - A cool technique to make separations between sections
 
   - How to incorporate app store and play store buttons
+
+## Step 5 lessons:
+
+  - Practice our new skill sets!
+
+  - How to use small icons aligned with text
+
+  - How to style generic links
