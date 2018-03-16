@@ -103,12 +103,16 @@ h2:after {
   margin-bottom: 10px;
 }
 
-.icons-small {
+.icon-small {
   display: inline-block;
   width: 30px;
   text-align: center;
   color: #e67e22;
   font-size: 120%;
+  /* secrets to align text and icons*/
+  line-height: 120%;
+  vertical-align: middle;
+  margin-top: -4px;
 }
 
 /*---- Buttons ---- */
