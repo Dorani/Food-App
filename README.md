@@ -42,3 +42,11 @@
   - How to make a nice "zoom-in" transition, only using css3
 
   - A way to make img docs darker
+
+## Step 4 lessons:
+
+  - How to draw circles with css
+
+  - A cool technique to make separations between sections
+
+  - How to incorporate app store and play store buttons
