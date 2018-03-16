@@ -253,6 +253,10 @@ header {
 /* How it Works */
 /* ---------------------------------------------------*/
 
+.section-steps {
+  background-color: #f4f4f4;
+}
+
 .steps-box:first-child { /* select the first of the step boxes which is the left one */
   text-align: right;
   padding-right: 3%;
