@@ -15,6 +15,16 @@ html {
   font-size: 20px;
   text-rendering: optimizeLegibility;
 }
+
+.clearfix {zoom: 1} /* clear float after an element, then put it in ul, because child elements of the class have the float prop, so parent has clearfix class so float will be cleared after ul*/
+.clearfix:after {
+  content: '.';
+  clear: both;
+  display: block;
+  height: 0;
+  visibility: hidden;
+}
+
 /* -------------------------------------------------- */
 /* Reusable Components */
 /* ---------------------------------------------------*/
