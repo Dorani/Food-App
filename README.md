@@ -58,3 +58,17 @@
   - How to use small icons aligned with text
 
   - How to style generic links
+
+## Step 6 lessons:
+
+  - Design with border radius
+
+  - How to create box shadows with css3
+
+  - Styles!!!!
+
+## Step 7 lessons:
+
+  - How to use a set of new html elements to create forms: form, label, input, select, option, textarea
+
+  - How to style these elements
