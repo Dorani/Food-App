@@ -72,3 +72,9 @@
   - How to use a set of new html elements to create forms: form, label, input, select, option, textarea
 
   - How to style these elements
+
+## Step 8 lessons:
+
+  - How to build a simple but effective footer
+
+  - A cool way of using social icons
