@@ -377,8 +377,14 @@ cite {
   display: block;
 }
 
+blockquote:before {
+  content:"\201C";
+  font-size: 400%;
+}
+
 cite img {
-  height: 50px;
+  height: 45px;
   border-radius: 50%;
   margin-right: 10px;
+  vertical-align: middle;
 }
