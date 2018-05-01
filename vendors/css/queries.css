@@ -1,7 +1,11 @@
 
 /* Large Tablets to 1200px: from 1024px to 1200px*/
 @media only screen and (max-width: 1200px) {
+  .hero-text-box {
+    width: 100%;
+    padding: 0 2%;
 
+  }
 }
 
 /* IPAD in Portrait Mode: from 768px to 1023px*/
