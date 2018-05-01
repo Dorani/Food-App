@@ -22,13 +22,16 @@
 
   .steps-box {margin-top: 10px;}
   .steps-box:last-child {margin-top: 10px;}
-  .works-step{margin-bottom: 40px;}
-  .works-step:last-of-type{margin-bottom: 60px;}
+  .works-step {margin-bottom: 40px;}
+  .works-step:last-of-type {margin-bottom: 60px;}
 
-  .app-screen{width: 50%;}
+  .app-screen {width: 50%;}
 
-  .icon-small{width: 20px;}
-  .city-feature{font-size: 90%;}
+  .icon-small {
+    width: 17px;
+    margin-right: 5px;
+  }
+  .city-feature {font-size: 90%;}
 }
 
 /* Small Phones to Small Tablets: from 481px to 767px*/
