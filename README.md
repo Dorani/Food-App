@@ -78,3 +78,7 @@
   - How to build a simple but effective footer
 
   - A cool way of using social icons
+
+## Media Queries and Breakpoints
+
+  -
