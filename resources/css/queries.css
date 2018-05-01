@@ -32,6 +32,15 @@
     margin-right: 5px;
   }
   .city-feature {font-size: 90%;}
+
+  .plan-box {
+    width: 100%;
+    margin-left: 0%;
+  }
+
+  .plan-price {font-size: 250%;}
+
+  .contact-form {width: 90%;}
 }
 
 /* Small Phones to Small Tablets: from 481px to 767px*/
