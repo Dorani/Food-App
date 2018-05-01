@@ -26,6 +26,9 @@
   .works-step:last-of-type{margin-bottom: 60px;}
 
   .app-screen{width: 50%;}
+
+  .icon-small{width: 20px;}
+  .city-feature{font-size: 90%;}
 }
 
 /* Small Phones to Small Tablets: from 481px to 767px*/
