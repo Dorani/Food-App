@@ -63,3 +63,6 @@ $('a[href*="#"]')
       }
     }
   });
+
+  //Animations on Scroll:
+  
