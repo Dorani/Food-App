@@ -18,9 +18,10 @@ $(document).ready(function() {
 
     nav.slideToggle(200);
     if (icon.hasClass('.ion-navicon-round')) {
-
+        icon.addClass('.ion-close-round');
+        icon.removeClass('.ion-navicon-round');
     } else {
-      
+
     }
 
 
