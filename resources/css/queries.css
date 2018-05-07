@@ -71,6 +71,7 @@
     .main-nav li a:visited {
       display: block;
       border: 0;
+      padding: 5px 0;
     }
 
     h1 {font-size: 180%;}
