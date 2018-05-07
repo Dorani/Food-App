@@ -55,7 +55,12 @@
       margin: 0 0 4% 0;
     }
     /*.main-nav {display: none;}*/
-    mobile-nav-icon{display: inline-block;}
+    .mobile-nav-icon{display: inline-block;}
+
+    .main-nav {
+      float: left;
+    }
+
     h1 {font-size: 180%;}
     h2 {font-size: 150%;}
 
