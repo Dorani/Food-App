@@ -11,6 +11,13 @@ $(document).ready(function() {
 }, {
   offset: '60px;'
   });
+  //Mobile navicon
+  $('.js--nav-icon').click(function(){
+    var nav = $('.js--main-nav');
+    nav.slideToggle(200);
+  });
+
+
 
 //Nav bar section clicks
 // Select all links with hashes
@@ -49,6 +56,8 @@ $('a[href*="#"]')
       }
     }
 
+
+
     //Scroll on Buttons
 
       //seclect the class and when we click on it
@@ -83,11 +92,7 @@ $('a[href*="#"]')
         offset: '50%'
       });
 
-      //Mobile navicon
 
-      $('.js--nav-icon').click(function(){
-        var nav = $('.js--main-nav')
-      });
   });
 
 });
