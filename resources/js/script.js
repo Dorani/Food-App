@@ -82,6 +82,10 @@ $('a[href*="#"]')
       }, {
         offset: '50%'
       });
+
+      //Mobile navicon
+
+      
   });
 
 });
