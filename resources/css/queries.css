@@ -59,7 +59,7 @@
 
     .main-nav {
       float: left;
-      margin-top: 25px;
+      margin-top: 35px;
       margin-left: 25px;
     }
 
@@ -71,7 +71,8 @@
     .main-nav li a:visited {
       display: block;
       border: 0;
-      padding: 5px 0;
+      padding: 10px 0;
+      font-size: 100%;
     }
 
     h1 {font-size: 180%;}
